@@ -14,4 +14,5 @@
 - react-redux
 
 <h3>Ekran Gif</h3>
- ![](firebase-auth-1.gif)
+
+![](firebase-auth.gif)
